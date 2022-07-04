@@ -23,4 +23,3 @@ You may also see any lint errors in the console.
 
 <img src="./src/assets/img/img2.png" alt="">
 
-Reference for the application layout : 
